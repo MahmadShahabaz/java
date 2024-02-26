@@ -1,0 +1,4 @@
+java is easy
+python is flexible
+dbms is useful
+html is web lang
